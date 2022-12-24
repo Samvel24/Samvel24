@@ -25,11 +25,11 @@
 
 ### Computer science
 [![Structured Programming](https://img.shields.io/badge/Structured_Programming-blue.svg)]()
-[![Object-oriented programming](https://img.shields.io/badge/Object_oriented_programming-yellow)]()
-[![API RESTful](https://img.shields.io/badge/API_RESTful-green)]()
-[![Model View Controller](https://img.shields.io/badge/Model_View_Controller-orange)]()
-[![Digital Image Processing](https://img.shields.io/badge/Digital_Image_Processing-black)]()
-[![Computer Vision](https://img.shields.io/badge/Computer_Vision-brown)]()
+[![Object-oriented programming](https://img.shields.io/badge/Object_oriented_programming-yellow.svg)]()
+[![API RESTful](https://img.shields.io/badge/API_RESTful-green.svg)]()
+[![Model View Controller](https://img.shields.io/badge/Model_View_Controller-orange.svg)]()
+[![Digital Image Processing](https://img.shields.io/badge/Digital_Image_Processing-black.svg)]()
+[![Computer Vision](https://img.shields.io/badge/Computer_Vision-brown.svg)]()
 <!---
 Samvel24/Samvel24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
