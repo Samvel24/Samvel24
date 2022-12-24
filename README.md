@@ -16,7 +16,7 @@
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)]()
 </br>
-[![OpenCV](https://img.shields.io/badge/my__message-green)]()
+[![OpenCV](https://img.shields.io/badge/OpenCV-green)]()
 <!---
 Samvel24/Samvel24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
