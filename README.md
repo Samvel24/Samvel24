@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning OpenCV with different programming languages
 - 💻 I’m looking to collaborate on data engineering
 - 💞 I love being a social work volunteer and giving my hands to help other people
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.linkedin.com/in/samuel-ramírez-221892171/) or https://www.researchgate.net/profile/Samuel-Ramirez-4
+- 📫 How to reach me: 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-ramírez-221892171/) or https://www.researchgate.net/profile/Samuel-Ramirez-4
 
 ## Tecnologías
 ### Software
