@@ -24,8 +24,10 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 
 ### Computer science
-[![API RESTful](https://img.shields.io/badge/API_RESTful-blue)]()
-[![Model View Controller ](https://img.shields.io/badge/Model_View_Controller-green)]()
+[![Structured Programming](https://img.shields.io/badge/Structured_Programming-blue)]()
+[![Object-oriented programming](https://img.shields.io/badge/Object_-oriented-programming-blue)]()
+[![API RESTful](https://img.shields.io/badge/API_RESTful-green)]()
+[![Model View Controller ](https://img.shields.io/badge/Model_View_Controller-orange)]()
 <!---
 Samvel24/Samvel24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
