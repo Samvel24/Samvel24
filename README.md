@@ -25,6 +25,7 @@
 
 ### Computer science
 [![API RESTful](https://img.shields.io/badge/API_RESTful-blue)]()
+[![Model View Controller ](https://img.shields.io/badge/Model_View_Controller-green)]()
 <!---
 Samvel24/Samvel24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
