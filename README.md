@@ -24,7 +24,7 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 
 ### Computer science
-[![Object-oriented programming](https://img.shields.io/badge/?logoWidth=40O&bject_oriented_programming-yellow)]()
+[![Object-oriented programming](https://img.shields.io/badge/Object_oriented_programming-yellow)]()
 [![API RESTful](https://img.shields.io/badge/API_RESTful-green)]()
 [![Model View Controller ](https://img.shields.io/badge/Model_View_Controller-orange)]()
 <!---
