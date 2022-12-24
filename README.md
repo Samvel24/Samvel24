@@ -32,6 +32,10 @@ About me
 [![Model View Controller](https://img.shields.io/badge/Model_View_Controller-purple.svg)]()
 [![Digital Image Processing](https://img.shields.io/badge/Digital_Image_Processing-black.svg)]()
 [![Computer Vision](https://img.shields.io/badge/Computer_Vision-brown.svg)]()
+
+***
+
+This Github profile is driven by science :gear: :electron: :rocket: :robot:
 <!---
 Samvel24/Samvel24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
