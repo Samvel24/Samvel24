@@ -28,7 +28,7 @@
 [![Object-oriented programming](https://img.shields.io/badge/Object_oriented_programming-yellow)]()
 [![API RESTful](https://img.shields.io/badge/API_RESTful-green)]()
 [![Model View Controller](https://img.shields.io/badge/Model_View_Controller-orange)]()
-[![Digital Image Processing](https://img.shields.io/badge/Digital_Image_Processing-red)]()
+[![Digital Image Processing](https://img.shields.io/badge/Digital_Image_Processing-black)]()
 [![Computer Vision](https://img.shields.io/badge/Computer_Vision-brown)]()
 <!---
 Samvel24/Samvel24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
