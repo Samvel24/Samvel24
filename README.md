@@ -25,7 +25,7 @@
 
 ### Computer science
 [![Structured Programming](https://img.shields.io/badge/Structured_Programming-blue.svg)]()
-[![Object-oriented programming](https://img.shields.io/badge/Object_oriented_programming-yellow.svg)]()
+[![Object-oriented programming](https://img.shields.io/badge/Object_oriented_programming-white.svg)]()
 [![API RESTful](https://img.shields.io/badge/API_RESTful-green.svg)]()
 [![Model View Controller](https://img.shields.io/badge/Model_View_Controller-orange.svg)]()
 [![Digital Image Processing](https://img.shields.io/badge/Digital_Image_Processing-black.svg)]()
