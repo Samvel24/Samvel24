@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samuel Ramírez (@Samvel24)
+# 👋 Hi, I’m Samuel Ramírez (@Samvel24)
 - 👀 I’m interested in software programming, digital image processing, computer vision and research and development
 - 🌱 I’m currently learning OpenCV with different programming languages
 - 💻 I’m looking to collaborate on data engineering
