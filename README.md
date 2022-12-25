@@ -35,7 +35,7 @@ About me
 
 ***
 
-**This Github profile is driven by science :gear: :electron: :rocket: :robot: :computer:**
+**This Github profile is driven by science :gear: :electron: :rocket:  :computer: :robot:**
 <!---
 Samvel24/Samvel24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
