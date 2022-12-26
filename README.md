@@ -27,11 +27,13 @@ About me
 ### Computer science
 [![Structured Programming](https://img.shields.io/badge/Structured_Programming-blue.svg)]()
 [![Object-oriented programming](https://img.shields.io/badge/Object_oriented_programming-orange.svg)]()
-[![API RESTful](https://img.shields.io/badge/API_RESTful-green.svg)]()
+[![Data structures](https://img.shields.io/badge/Data_structures-green.svg)]()
 </br>
-[![Model View Controller](https://img.shields.io/badge/Model_View_Controller-purple.svg)]()
+[![API RESTful](https://img.shields.io/badge/API_RESTful-green.svg)]()
 [![Digital Image Processing](https://img.shields.io/badge/Digital_Image_Processing-black.svg)]()
 [![Computer Vision](https://img.shields.io/badge/Computer_Vision-brown.svg)]()
+</br>
+[![Model View Controller](https://img.shields.io/badge/Model_View_Controller-purple.svg)]()
 
 ***
 
