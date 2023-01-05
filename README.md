@@ -4,6 +4,7 @@ About me
 - 🌱 I’m currently learning OpenCV with different programming languages
 - 💻 I’m looking to collaborate on data engineering
 - 💞 I love being a social work volunteer and giving my hands to help other people
+- :man_student: I studied Engineering at the National Polytechnic Institute - ESIME Zacatenco, México :books:
 - 📫 How to reach me: </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-ramírez-221892171/) or [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Samuel-Ramirez-4)
 
