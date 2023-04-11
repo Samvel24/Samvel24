@@ -6,7 +6,9 @@ About me
 - 💞 I love being a social work volunteer and giving my hands to help other people
 - :man_student: I studied Engineering at the National Polytechnic Institute - ESIME Zacatenco, México :books:
 - 📫 How to reach me: </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-ramírez-221892171/);  [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Samuel-Ramirez-4)
+-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-ramírez-221892171/)
+-[![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Samuel-Ramirez-4)
+-[![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/samvel24/)
 ## Computer skills
 ### Software development
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
