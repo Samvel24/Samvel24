@@ -1,10 +1,7 @@
 # 👋 Hi, I’m Samuel Ramírez (@Samvel24) </br>
 About me
-- 👀 I’m interested in Software development, Digital image processing, Computer vision and Research and Development (R & D)
-- 🌱 I’m currently learning OpenCV with different programming languages
-- 💻 I seek to collaborate and grow in the area of Software Development and over time collaborate in Data Engineering
-- 💞 I love being a social work volunteer and giving my hands to help other people
-- :man_student: I studied Engineering at the National Polytechnic Institute - ESIME Zacatenco, México :books:
+- 👀 I’m interested in Software development, Digital image processing and Research and Development (R & D)
+- :man_student: National Polytechnic Institute - ESIME Zacatenco, México :books:
 - 📫 How to reach me: </br>
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-ramírez-221892171/)
   - [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Samuel-Ramirez-4)
