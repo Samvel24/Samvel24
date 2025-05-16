@@ -3,7 +3,6 @@ About me
 - 👀 I’m interested in Software development, Digital image processing and Research and Development (R & D)
 - :man_student: National Polytechnic Institute - ESIME Zacatenco, México :books:
 - 📫 How to reach me: </br>
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelramirez24/)
   - [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Samuel-Ramirez-4)
   - [![Platzi](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/samvel24/)
 ## Computer skills
